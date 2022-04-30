@@ -4,4 +4,4 @@
 
 <p>In this lab, I created two maps that would help visualize the epidemiology of the COVID-19 Pandemic.<br></p>
 
-<h2> First map: </h2>
+ <a href = "http://127.0.0.1:5500/map1.html"><h2> First map </h2>  </a>
